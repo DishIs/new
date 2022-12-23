@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3758],{9504:e=>{e.exports=JSON.parse('{"label":"openofice","permalink":"/blog/tags/openofice","allTagsPath":"/blog/tags","count":1}')}}]);
